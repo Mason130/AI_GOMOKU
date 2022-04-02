@@ -1,4 +1,3 @@
-## COS470 PROJECT 
 ### AI Gomoku 
 #### Mason Yu
 ```
